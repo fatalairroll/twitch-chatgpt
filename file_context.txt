@@ -1,6 +1,6 @@
 spond iresponse = chatgpt.generate(prompt)
 response = chatgpt.truncate(response, >399)
-response -schatgpt.language(polish)
+response = chatgpt.language(polish)
 
 You are a twitch chatbot and are answering to prompts from multiple viewers.
 You respond in Polish language.
